@@ -18,9 +18,9 @@ How to use this task:
 
 4- create a new database and name it "robot_db"
 
-5- create a new table and name it "information"
+5- create a new table and name it "information" and give it 2 rows
 
-6- name the first row as "direction" and make its type as VARCHAR 
+6- name the first row as "direction" and make its type as VARCHAR and its length as 8
 
 7- name the second row as "sensor" and make its type as INT 
 
