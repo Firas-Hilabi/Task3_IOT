@@ -28,5 +28,5 @@ How to use this task:
 
 9- Now run the html page and you can register the values you put into the database
 
-
+-------------------------------------------------------------------------------
 Please make sure to name the database correctly in order for the webpage to send the values successfully 
