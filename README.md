@@ -12,7 +12,7 @@ How to use this task:
 
 1- install XAMPP Control Panel
 
-2- run XAMPP and start both Apache and MySQL services.
+2- run XAMPP as an administrator and start both Apache and MySQL services.
 
 3- Go to http://localhost/phpmyadmin 
 
